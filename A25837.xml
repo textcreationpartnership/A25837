@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings of the two houses of Parliament now assembled in England and Scotland, and the Whiggs declaration on Scotland together with Argile's declaration at large, as it was published by him and his accomplices.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25837</idno>
+            <idno type="STC">Wing A371</idno>
+            <idno type="STC">ESTC R4926</idno>
+            <idno type="EEBO-CITATION">13482790</idno>
+            <idno type="OCLC">ocm 13482790</idno>
+            <idno type="VID">99705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99705)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 781:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings of the two houses of Parliament now assembled in England and Scotland, and the Whiggs declaration on Scotland together with Argile's declaration at large, as it was published by him and his accomplices.</title>
+                  <author>Argyll, Archibald Campbell, Earl of, 1629-1685.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joseph Ray for John Bentley,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Earl of, 1629-1685.</term>
+               <term>England and Wales. --  Parliament.</term>
+               <term>Scotland. --  Parliament.</term>
+               <term>Church and state --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:99705:1"/>
+            <pb n="1" facs="tcp:99705:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF THE PROCEEDINGS OF THE TWO HOUSES of PARLIAMENT now aſſembled in <hi>England</hi> and <hi>Scotland,</hi> AND THE WHIGGS DECLARATION in <hi>Scotland.</hi>
+            </head>
+            <head type="sub">Together with <hi>Argile</hi>'s DECLARATION at large, as it was published by him and his Accomplices.</head>
+            <opener>
+               <dateline>
+                  <date>Friday May 22.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>THE firſt thing the two Houſes did was to reſolve to return their moſt Humble and Hearty Thanks to His Majeſty for his moſt gracious Speech and Declaration. And the Houſe of Commons taking into conſideration that part of His Majeſties Speech which relates to the Revenue, Reſolved,</hi> Nemine Contradicente, That the Revenue which was granted to the late King, be ſetled on his preſent Majeſty for his Life, and that a Bill ſhould be brought in for that purpoſe.</p>
+            <pb n="2" facs="tcp:99705:2" rendition="simple:additions"/>
+            <p> 
+               <hi>In the Afternoon the two Houſes attended His Majeſty in a Body in the Banquetting Houſe at</hi> Whitehall <hi>to return their Thanks to His Majeſty.</hi>
+            </p>
+            <p>This day the Houſe of Lords reſolved to make the following Addreſs to His Majeſty,</p>
+            <p>His Majeſty having graciouſly imparted to this Houſe, That he is informed that the late Earl of <hi>Argile</hi> attainted of Treaſon, with divers other Rebels, are Landed in <hi>Scotland,</hi> and are in Actual Rebellion. It is ordered by the Lords Spiritual and Temporal in Parliament Aſſembled, That this Houſe do wait upon His Majeſty at Five a Clock this afternoon in the Banquetting Houſe at <hi>White<g ref="char:EOLhyphen"/>hall,</hi> to give his Majeſty their humble thanks for having imparted the ſame to this Houſe; And do humbly offer to aſſiſt his Majeſty with their Lives and Fortunes against the ſaid Rebels and all other his Ene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies whatſoever.</p>
+            <p>
+               <hi>The Houſe of Commons likewiſe after Reading of</hi> Argiles <hi>Declaration mentioned in his Majeſties Speech. Reſolved,</hi> Ne<g ref="char:EOLhyphen"/>mine Contradicente, That this Houſe will ſtand by and aſſiſt his Ma<g ref="char:EOLhyphen"/>jeſty with their Lives and Fortunes againſt <hi>Archibald Campbel</hi> the pretended Earl of <hi>Argil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and his Ad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erents, and all Rebels and Traytors, and all others whatſoever that ſhall aſſiſt him or any of them. And that this Houſe will in a body attend his Majeſty with this Vote.</p>
+            <p>
+               <hi>And this afternoon the two Houſes accordingly attended his Majeſty ſeverally in the Banquetting Houſe with the ſaid Addreſ<g ref="char:EOLhyphen"/>ſes and Votes.</hi>
+            </p>
+            <p>The Bill for ſettling the Revenue on his Majeſty for his Life, <hi>was this day Read the firſt time; and is to be Read again on</hi> Momday <hi>next.</hi>
+            </p>
+            <p>Edinbugh, May 9. <hi>Yeſterday there paſſed two Acts in Parlia<g ref="char:EOLhyphen"/>ment; The one declaring,</hi> That whereas the obſtinacy of the Fana<g ref="char:EOLhyphen"/>tical party, notwithſtanding all the Laws formerly made against them, do pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſevere to keep their Houſe and Field Conventicles, which are the Nurſeries and Rendevouzes of Rebellion. Therefore
+<pb n="3" facs="tcp:99705:2"/> his Majeſty with conſent of his Eſtates in Parliament, doth Statute and Ordain that all ſuch as ſhall hereafter Preach at ſuch Fanatical Houſe or Field Conventicles, as alſo ſuch as ſhall be preſent as Hear<g ref="char:EOLhyphen"/>ers at Field Conventicles, ſhall be puniſhed by Death, and Confiſca<g ref="char:EOLhyphen"/>tion of their Goods.</p>
+            <p>
+               <hi>The other declaring,</hi> That the giving or taking the National Covenant as explained in the Year 1638, or of the League and Cove<g ref="char:EOLhyphen"/>nant, ſo commonly called, or writing in defence thereof, or owning of them as lawful or obligatory on themſelves or others, ſhall infer the Crime and Pains of Treaſon.</p>
+            <floatingText xml:lang="eng" type="Act_of_Parliament">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Edinburgh, May</hi> 13</date> This day the Parliament paſſed the following Act.</dateline>
+                  </opener>
+                  <head>An Act and Offer of a new Supply to His Majeſty.</head>
+                  <p>
+                     <hi>THE Eſtates of Parliament calling to mind the many great Bleſſings they have and do enjoy under the protection of the Royal Government / and eſpecially by the many deliverances from the Rebellious Inſut<g ref="char:EOLhyphen"/>rections and deſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gns of Phanatical Traitors / from whom they could expect no leſs than confuſion in Religion / Oppreſſion in their Eſtates / and Cruelty againſt their Perſons and Familes; And that the Terror of His Majeſties Forces hath been very inſtrumental for procuring our preſent Security: But conſidering that not only theſe Enemies continue their inveterate hatred a<g ref="char:EOLhyphen"/>gainſt King and People / but that their frequent diſappointments have height<g ref="char:EOLhyphen"/>ned their malice to deſpair; And that the preſent Forces may be too few to un<g ref="char:EOLhyphen"/>dergo all the Fatigue which His Majeſties Service / or the protection of the Country doth require; And to demonſtrate to all Seditious men that this Na<g ref="char:EOLhyphen"/>tion is reſolved to beſtow all they have in the Kings Service / rather than to be expoſed to the leaſt of their Inſults: Do therefore for themſelves &amp; the Nation repreſented by them / make a hearty and dutiful offer to His Majeſty of Two hundred &amp; 16 thouſand pounds yearly / payable at two Terms</hi> / viz. Whitſonday <hi>and</hi> Mertimas <hi>each year / beginning at</hi> Whitſonday <hi>next</hi> 1685. <hi>and ſo forth termly / and that over and beſides the five Months Ceſſe already impoſed on this Kingdom by the third Act of Parliament</hi> 1681. <hi>whereby there will be four Months Ceſſe payable at each Term hereafter / beginning at</hi> Whitſonday <hi>next</hi> 1685. <hi>And as a farther Evidence of their entire affection to the Sacr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d Perſon of his preſent Majeſty / they humbly and heartily offer a continuation and prorogation of the ſaid four Months Ceſſe termly from the ſaid Term of</hi> Whitſonday 1685, <hi>inclu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ve / during all the Terms of His Majeſties life time / which God Almighty long preſerve / that being the greateſt of our e<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ly wishes / as it is the chief of our Temporal Felicity and Glory.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <pb n="4" facs="tcp:99705:3"/>
+            <p> 
+               <hi>Edinburgh, May</hi> 18. The late Earl of <hi>Argile,</hi> and with him ſome other Rebels having in <hi>Holland</hi> made proviſion of Arms and Ammunition, ſet Sail from the <hi>Vlye</hi> on Saturday the 2<hi>d</hi> Inſtant in thre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſmall Ships. On the <hi>5th</hi> he appeared before <hi>Orkney,</hi> where having ſent his Secretary and Chirurgeon on ſhore, they were immediately ſeized by the Inhabitants of that Iſland, and are ſending hither with all diligence to the Privy Council. From thence he Sailed for the Weſt Coaſt of <hi>Scotland,</hi> and arrived the <hi>13th</hi> Inſtant at <hi>Danſtafnage</hi> in <hi>Lorne</hi> (a ruinous Caſtle which formerly did belong to himſelf) and put a Garriſon therein. The Highlanders, and all His Majeſties Forces on the Confines of that Country, are marching with all poſſible dili<g ref="char:EOLhyphen"/>gence for ſuppreſſing theſe Rebels; Who have emitted two Trai<g ref="char:EOLhyphen"/>terous Declarations, whereof the firſt (a long one) is intitled thus: <hi>[The Declaration and Apologie of the Proteſtant People, that is, of the Noblemen, Barons, Gentlemen, Burgeſſes and Commons of all ſorts, now in Arms within the Kingdom of</hi> Scotland, <hi>with the Concurrence of the True and Faithful Paſtors, and of ſeveral Gentlemen of the Engliſh Nation joined with them in the ſame Cauſe,</hi> &amp;c] By which <hi>they</hi> impudently and irreligiouſly <hi>ſet forth the great advantages the Proteſtant Religion both at home and abroad, had by the Succeſs</hi> of the Horrid Rebellion <hi>against King</hi> Charles <hi>the Firſt, which Suc<g ref="char:EOLhyphen"/>ceſs they now</hi> impiouſly <hi>aſcribe to the Bleſſing of God upon the Good<g ref="char:EOLhyphen"/>neſs of their Cauſe: They cry up the Loyalty of the Scotch Covenan<g ref="char:EOLhyphen"/>ters,</hi> who after they had delivered up the Father to be barbarouſly and inhumanly Murdered by their Brethren in <hi>England,</hi> had yet admitted of the Son to Reign <hi>upon certain terms &amp; Conditions</hi> (ab<g ref="char:EOLhyphen"/>ſolutely inconſiſtent with Monarchy) by which they pretend to prove that all that was done by his Late Majeſty ſince his Hap<g ref="char:EOLhyphen"/>py Reſtauration, was <hi>
+                  <g ref="char:V">Ʋ</g>ngrate, Illegal, Arbitrary and Tyrannical;</hi> And that all the Oaths impoſed by Law ſince the reſcinding of the Solemn League and Covenant <hi>have been Perjury,</hi> and the Government it ſelf a <hi>continued Apoſtacy.</hi> And they accuſe the Parliaments of both Kingdoms for reſcinding the <hi>pernicious Laws made</hi> during the Rebellion, and thoſe of <hi>Scotland</hi> in particular, for making of Laws by which Proteſtant Blood (as they pretend)
+<pb n="5" facs="tcp:99705:3"/> is ſhed, whereof they give for inſtance the late Marquis of <hi>Argile</hi> Condemned in Parliament; and alſo for turning out the Noncon formiſts Miniſters. They accuſe the Government of putting men to death contrary to Law; and <hi>deſolating the Churches, changing the Ordinances of God to the Inventions of Men;</hi> conniving at Pa<g ref="char:EOLhyphen"/>piſts; keeping up of Standing Forces, which they call the <hi>Bane</hi> of Civil Government. They declare againſt the Kings <hi>Supremacy;</hi> And all the Wars againſt the States General of the United Pro<g ref="char:EOLhyphen"/>vinces. The Execution of thoſe Miſcreants, who make it their Profeſſion and Practice to Murder Loyal Subjects upon the pre<g ref="char:EOLhyphen"/>tence of Religion; and the Torture of <hi>Spence</hi> and <hi>Carſtares,</hi> by whom was made ſo great a diſcovery of the late horrid Conſpira<g ref="char:EOLhyphen"/>cy; as alſo the Forfeiture of the late Earl of <hi>Argile.</hi> They like<g ref="char:EOLhyphen"/>wiſe declare againſt the Enquiries that were made into the Rebel<g ref="char:EOLhyphen"/>lion at <hi>Bothwel Bridge</hi> by the late Circuit Courts, all which (ſo neceſſary for the peace and quiet of theſe Kingdoms) they call <hi>Tyranny and Popery twiſted together.</hi> They declare againſt his preſent Majeſty, <hi>(whom they call James Duke of York)</hi> his Aſcen<g ref="char:EOLhyphen"/>tion to the Throne, as being <hi>Excluded from it by the Commons of England.</hi> They declare likewiſe againſt the preſent <hi>Houſe of Commons as Packed and Caballed and returned by Fraud and Inju<g ref="char:EOLhyphen"/>ſtice.</hi> For all which pretended reaſons they declare that they totally <hi>throw off all Bonds of Subjection,</hi> and do take up Arms a<g ref="char:EOLhyphen"/>gainſt his preſent Majeſty (whom they ſtill call <hi>James Duke of York)</hi> and all his Accomplices, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iling them the <hi>moſt unnatural and wicked Enemies;</hi> for thoſe pretended ends. Firſt <hi>The re<g ref="char:EOLhyphen"/>ſtoring and ſetling what they call the Proteſtant Religion.</hi> Second<g ref="char:EOLhyphen"/>ly, <hi>The Suppreſſion and perpetual Excluſion of Popery, and its bi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>-Root and Spring,</hi> Prelacy. Thirdly, <hi>The reſtoring of all who hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> been Sufferers upon the account of adherence to their Partly, for the pulling down of this preſent Government, and ſetting up another ſuit<g ref="char:EOLhyphen"/>able to their deſigns; And they declare that they never will enter into any Capitulation, Treaty, or Conditions with the King; but on the contrary proſecute the War wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reality, conſtancy and vigor, until they ſhall attain their ends; and that they will aſſiſt and main<g ref="char:EOLhyphen"/>tain one another, eſpecially their Brethren in</hi> England <hi>and</hi> Ireland,
+<pb n="6" facs="tcp:99705:4"/> 
+               <hi>who ſhall purſue the ſame ends.</hi> And laſtly, they promiſe Indem<g ref="char:EOLhyphen"/>nity to thoſe who have been formerly their Enemies, upon their ſincere repentance, joyning with them and vigorouſly aſſiſting them againſt a <hi>Perſecuting Tyrant and an Apoſtate Party,</hi> for ſo they call His Majeſty and his loyal Subjects, ending their Decla<g ref="char:EOLhyphen"/>ration with great Promiſes of Aſſiſtance from God to their Par<g ref="char:EOLhyphen"/>ty, and of Confuſion to their Enemies. This being the ſubſtance of their long and Canting Declaration, the other leſſer is here ſet down at length.</p>
+            <floatingText xml:lang="eng" type="declaration">
+               <body>
+                  <head>
+                     <hi>The Declaration of</hi> Archibald <hi>Earl of</hi> Argile, <hi>Lord</hi> Kintyre, Cow all, Campbel, <hi>and</hi> Lorn, <hi>Heritable Sheriff and Lieutenant of the Shires of</hi> Argile <hi>and</hi> Turbett, <hi>and Heritable Juſtice Gene<g ref="char:EOLhyphen"/>ral of the ſaid Shires, and of the Weſt Iſles, and others; with his Order to his Vaſſals and others in the ſaid Shires, and under his Juriſdicton, to concur for Defence of their Religion, Lives and Liberties.</hi>
+                  </head>
+                  <p>I Shall not mention my Caſe publiſhed in Print in Latine and in Dutch, and more largely in Engliſh, nor mean I to repeat the printed Declaration emitted by ſeveral Noblemen, Gentlemen, and others of both Nations now in Arms; but becauſe the Suf<g ref="char:EOLhyphen"/>ferings of me and my Family are therein mentioned, I have thought it fit for me to declare for my ſelf; That as I go to Arms with thoſe who have appointed me to conduct them, for no pri<g ref="char:EOLhyphen"/>vate nor perſonal end, and only for thoſe contained in the ſaid Declaration, which I have concerted with them, and approve of; ſo I do claim no Intereſt, but what I had before the pretended Forfeiture of my Family, and have ſufficient right to.</p>
+                  <p>And that I do freely, (and as a Chriſtian) forgive all perſonal Injuries againſt my Perſon or Family to all that ſhall not oppoſe, but join and concur with us in our preſent Undertaking, for the ends mentioned in the ſaid Declaration. And hereby I oblige me never to purſue them in Judgment, nor out of Judgement; And I do further declare, That obtaining the peaceable and quiet Poſ<g ref="char:EOLhyphen"/>ſeſſion of what belonged to my Father and my ſelf before our
+<pb n="7" facs="tcp:99705:4" rendition="simple:additions"/> pretended Forfeitures, I ſhall ſatisfie all Debts due by my Fa<g ref="char:EOLhyphen"/>ther and my ſelf, as any Heir or Debitor can be obliged.</p>
+                  <p>And as my Faithfulneſs to his late Majeſty and his Govern<g ref="char:EOLhyphen"/>ment, hath ſufficiently appeared to all unbiaſſed perſons void of Malice; ſo I do with Grief acknowledge my former too much complying with and conniving at the methods that have been taken to bring us to the ſad condition we are now in, though God knows never concurring in the deſign.</p>
+                  <p>I have now with Gods Strength ſuffered patiently my unjuſt Sentence and Baniſhment three years and a half, and have never offered to make any Uproar or Defence by Arms, to diſturb the Peace upon my private concern; But the King being now dead, and the Duke of <hi>York</hi> having taken off his Mask, and having a<g ref="char:EOLhyphen"/>bandoned and invaded our Religion and Liberties, reſolving to enter into the Government, and exerciſe it contrary to Law, I thinkit not only Juſt, but my Duty to God and my Country, to uſe my outmoſt endeavors to oppoſe and repreſs his Uſurpations and Tyranny.</p>
+                  <p>And therefore being aſſiſted and furniſhed very nobly by ſeve<g ref="char:EOLhyphen"/>ral good Proteſtants, and invited and accompanied by ſeveral of both Nations to lead them, I reſolve, as God ſhall enable me, to uſe their aſſiſtance of all kinds, towards the ends expreſt in the ſaid Declaration.</p>
+                  <p>And I do hereby earneſtly invite and obteſte all honeſt Prote<g ref="char:EOLhyphen"/>ſtants, and particularly all my Friends and Blood Relations, to concur with us in the ſaid Declaration; And as I have written ſe<g ref="char:EOLhyphen"/>veral Letters, ſo having no other way fully to intimate my mind otherwiſe, I do hereby require all my Vaſſals any where, and all within my ſeveral Jurisdictions, with their Fencible Men within their Command, to go to Arms, and to join and concur with us according to the ſaid Declarations, as they will be anſwerable at their peril; And that they obey the particular Orders they ſhall receive from me from time to time.</p>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Dublin, <hi>Printed by</hi> Joſeph Ray, <hi>for</hi> John Bentley, 1685.</p>
+            <pb facs="tcp:99705:5"/>
+            <pb facs="tcp:99705:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
